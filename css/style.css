@@ -548,6 +548,13 @@ body {
     opacity: 0.8;
 }
 
+.product-price {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--clr-primary);
+    margin-bottom: 1.5rem;
+}
+
 .extras-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
